@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import Description from "./components/Description";
 import Profile from "./components/Profile";
+import Footer from "./components/Footer";
 import useWindowSize from "./utils/useWindowSize";
 
 function App() {
@@ -51,7 +52,9 @@ function App() {
             </div>
           )}
         </div>
+
       </div>
+      <Footer />
     </div>
   );
 }

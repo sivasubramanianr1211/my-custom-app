@@ -47,7 +47,7 @@ const Profile: React.FC = () => {
           </span>{" "}
           வெற்றி வேட்பாளர்{" "}
           <span className="flex items-center justify-center gap-[6px]">
-            திரு
+            திரு.
             <b
               className="text-[#fff] text-[20px] "
               style={{
