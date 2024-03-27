@@ -110,7 +110,7 @@ const Description: React.FC = () => {
             alt=""
           />
           <div className="text-[10px] text-center mt-2">
-            பாகை<div> R. சிவசுப்ரமணியன்</div>
+            பாகை<div> R. சிவ சுப்ரமணியன்</div>
           </div>
         </div>
       </div>
