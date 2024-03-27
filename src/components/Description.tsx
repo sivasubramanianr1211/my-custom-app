@@ -71,7 +71,7 @@ const Description: React.FC = () => {
             src={AaImg}
             alt=""
           />
-          <div className="text-[12px] text-center mt-2">
+          <div className="text-[10px] text-center mt-2">
             பனங்குடி <div>திரு. A. அந்தோணி</div>
           </div>
         </div>
@@ -83,7 +83,7 @@ const Description: React.FC = () => {
             src={MrImg}
             alt=""
           />
-          <div className="text-[12px] text-center mt-2">
+          <div className="text-[10px] text-center mt-2">
             மேப்பல்<div>திரு. M. ராஜ்குமார்</div>
           </div>
         </div>
@@ -97,7 +97,7 @@ const Description: React.FC = () => {
             src={JjImg}
             alt=""
           />
-          <div className="text-[12px] text-center mt-2">
+          <div className="text-[10px] text-center mt-2">
             பனங்குடி <div>திரு. J. ஜெயக்குமார்</div>
           </div>
         </div>
@@ -109,8 +109,8 @@ const Description: React.FC = () => {
             src={SsrImg}
             alt=""
           />
-          <div className="text-[12px] text-center mt-2">
-            பாகை<div> R. சிவ சுப்ரமணியன்</div>
+          <div className="text-[10px] text-center mt-2">
+            பாகை<div> R. சிவசுப்ரமணியன்</div>
           </div>
         </div>
       </div>
