@@ -88,14 +88,6 @@ const Profile: React.FC = () => {
             </tr>
             <tr>
               <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
-                குலதெய்வம்
-              </td>
-              <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
-                ஸ்ரீ திருத்தி கருப்பர்
-              </td>
-            </tr>
-            <tr>
-              <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
                 கழகப் பணி
               </td>
               <td className="border-2 border-[#1b0e64]  rounded px-1 py-2">
@@ -116,6 +108,14 @@ const Profile: React.FC = () => {
               </td>
               <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
                 தமிழ்நாடு வடமாடு நலச்சங்கம்
+              </td>
+            </tr>
+            <tr>
+              <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
+                முந்தைய பதவி
+              </td>
+              <td className="border-2 border-[#1b0e64] rounded px-1 py-2">
+                நடராஜபுரம் கூட்டுறவு சங்கத் தலைவர்
               </td>
             </tr>
           </tbody>
